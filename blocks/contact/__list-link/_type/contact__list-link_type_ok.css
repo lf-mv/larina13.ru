@@ -1,0 +1,8 @@
+
+.contact__list-link_type_ok {
+  background-image: url(../../../../images/ok.svg);
+}
+
+.contact__list-link_type_ok:hover {
+  background-image: url(../../../../images/ok-act.svg);
+}

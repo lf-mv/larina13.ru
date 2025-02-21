@@ -1,0 +1,8 @@
+
+.contact__list-link_type_fb {
+  background-image: url(../../../../images/fb.svg);
+}
+
+.contact__list-link_type_fb:hover {
+  background-image: url(../../../../images/fb-act.svg);
+}

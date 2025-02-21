@@ -1,0 +1,71 @@
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/contact/__card/contact__card.css);
+@import url(../blocks/contact/__name/contact__name.css);
+@import url(../blocks/contact/__box/contact__box.css);
+@import url(../blocks/contact/__group/contact__group.css);
+@import url(../blocks/contact/__text/contact__text.css);
+@import url(../blocks/contact/__pic/contact__pic.css);
+@import url(../blocks/contact/__link/contact__link.css);
+@import url(../blocks/contact/__list/contact__list.css);
+@import url(../blocks/contact/__list-item/contact__list-item.css);
+@import url(../blocks/contact/__list-link/contact__list-link.css);
+@import url(../blocks/contact/__list-link/_type/contact__list-link_type_whatsapp.css);
+@import url(../blocks/contact/__list-link/_type/contact__list-link_type_telegram.css);
+@import url(../blocks/contact/__list-link/_type/contact__list-link_type_vk.css);
+@import url(../blocks/contact/__list-link/_type/contact__list-link_type_ok.css);
+@import url(../blocks/contact/__list-link/_type/contact__list-link_type_fb.css);
+@import url(../blocks/contact/__list-link/_type/contact__list-link_type_instagram.css);
+
+@import url();
+@import url();
+@import url();
+@import url();
+@import url();
+
+
+
+@keyframes flashing {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: .6;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+.typewriter {
+  border-right: .17em solid #fff;
+  white-space: nowrap;
+
+  animation:
+    typing 3.5s steps(30, end) 3s both,
+    blink-caret .7s step-end 7 forwards;
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blink-caret {
+  from, to {
+    border-color: transparent
+  }
+  50% {
+    border-color: #80aebd;
+  }
+}
+
+.skills {
+  display: none;
+}
+

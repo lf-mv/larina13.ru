@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'GT-Walsheim';
+  font-style:  normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("./GTWalsheimPro-Regular.woff2") format("woff2");
+       /* url("./gilroy-medium.woff") format("woff"); */
+}
+
+@font-face {
+  font-family: 'GT-Walsheim';
+  font-style:  normal;
+  font-weight: medium;
+  font-display: swap;
+  src: url("./GTWalsheimPro-Medium.woff2") format("woff2");
+       /* url("./gilroy-medium.woff") format("woff"); */
+}
+
+@font-face {
+  font-family: 'GT-Walsheim';
+  font-style:  normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("./GTWalsheimPro-Bold.woff2") format("woff2");
+       /* url("./gilroy-medium.woff") format("woff"); */
+}
+
+
+@font-face {
+  font-family: 'Bebas-Neue';
+  font-style:  normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("./BebasNeuePro-Regular.woff2") format("woff2");
+       /* url("./gilroy-medium.woff") format("woff"); */
+}
+
+@font-face {
+  font-family: 'Bebas-Neue';
+  font-style:  normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("./BebasNeuePro-Bold.woff2") format("woff2");
+       /* url("./gilroy-medium.woff") format("woff"); */
+}
